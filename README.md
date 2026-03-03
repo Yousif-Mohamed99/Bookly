@@ -10,7 +10,8 @@ A modern Flutter application for discovering, searching, and exploring books usi
 - **Search with Debounce**: Real-time search with debounce to minimize API calls and improve UX.
 - **API Response Caching**: Prevents duplicate requests and reduces rate limiting.
 - **Error Handling**: User-friendly error messages for network and API issues.
-- **Book Details View**: Rich details including cover, author, rating, and more.
+- **Book Details View**: Rich details including cover, author, rating,
+- **Preview**: User can preview the book from book details and read it.
 - **Similar Books**: Suggests similar books based on category.
 - **Responsive UI**: Adapts to different screen sizes and orientations.
 - **Custom Widgets**: Reusable widgets for book items, ratings, and buttons.
@@ -30,6 +31,7 @@ A modern Flutter application for discovering, searching, and exploring books usi
 - [flutter_dotenv](https://pub.dev/packages/flutter_dotenv)
 - [equatable](https://pub.dev/packages/equatable)
 - [dartz](https://pub.dev/packages/dartz)
+- [url_launcher](https://pub.dev/packages/url_launcher)
 
 ## Getting Started
 
